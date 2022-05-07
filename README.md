@@ -1,2 +1,8 @@
-# SMLW-Causality-Tutorial
-Eastern European Machine Learning Summer School (EEML) Workshop Series 2022. Tutorial on Causality for the Serbian Machine Learning Workshop on Deep Learning and Reinforcement Learning.
+### Eastern European Machine Learning Summer School (EEML) Workshop Series 2022. 
+
+Tutorial on Causality for the *Serbian Machine Learning Workshop on Deep Learning and Reinforcement Learning*.
+
+
+**Abstract:** In this practical session the attendee is going to explore concepts from causality in the formalized notion from Turing award winner Judea Pearl (key reference here is the book "Causality" 2009 Cambridge University Press, but we will also explore notions from subsequent literature as in "Elements of Causal Inference " 2017 from Peters et al. in MIT Press) in a machine learning context. These concepts involve reasoning about causal relations themselves (known as causal discovery) but also reasoning about causal effects (known as causal identification/estimation). To succeed in such an endeavour it takes not only data but also assumptions (or inductive biases) that can alleviate inference to reason about true causal relations exposed by the system under investigation, as famously put by Pearl himself the community must go beyond current machine learning which "amounts to only curve fitting". We will explore examples that make clear why this arguably harsh sentiment towards current practices in deep learning can find justification in formulable notions that make apparent why and how the field might continue to evolve towards the original dream of artificial intelligence. The attendee must not be afraid of exploring this growing field at the intersection of causality and machine learning at new since this practical will allow to follow from the ground-up with simple examples, yet leave room for cutting edge research revolving around modern models such as graph neural networks. The attendee will learn to recognize that deep learning has the potential to evolve towards deep understanding and hopefully this practical will motivate to engage in a community effort towards causal machine learning.
+
+![](PCH.pbm)
